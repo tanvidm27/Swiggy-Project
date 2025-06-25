@@ -61,7 +61,7 @@
 
 # 📌 Note
 - This is a sample project created for educational and portfolio purposes.
-- No real Zomato data was used.
+- No real Swiggy data was used.
 
 # 👤 Author
 - Tanvi D Mhaske.
