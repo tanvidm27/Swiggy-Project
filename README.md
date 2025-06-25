@@ -1,5 +1,5 @@
 # Swiggy-Project
-- This project is a Power BI dashboard built using sample data from a fictional restaurant business inspired by Swiggy Food App. It analyzes restaurant performance, customer behavior, and order trends through interactive visuals and insights.
+- This project is a Power BI dashboard built using sample data from a fictional restaurant business inspired by Swiggy Food App. It analyzes restaurant performance, customer behavior, and order trends through interactive visuals and insights.  Built using Power BI Desktop with DAX and Power Query…
 
 # 🍽️ Swiggy Dashboard
 - Swiggy Data Analysis Project – Power BI
