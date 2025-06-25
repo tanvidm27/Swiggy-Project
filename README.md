@@ -39,7 +39,7 @@
 - food.xlsx	:- Food category mapping.
 
 # 📁 Explore datasets in the Files/ folder
-# 📁 Dashboard report is in the ZomatoDashBoard/ folder
+# 📁 Dashboard report is in the SwiggyDashBoard/ folder
 # 📸 Screenshots are in the Dashboard Screenshots/ folder
 
 # 🔍 Key Insights & Visuals
